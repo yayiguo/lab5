@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/yayiguo/CSE110lab.svg?branch=master)](https://travis-ci.org/yayiguo/CSE110lab)
+[![Build Status](https://travis-ci.org/yayiguo/lab5.svg?branch=master)](https://travis-ci.org/yayiguo/lab5)
